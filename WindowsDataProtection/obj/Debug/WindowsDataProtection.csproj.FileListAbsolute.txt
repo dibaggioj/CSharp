@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WindowsDataProtection\bin\Debug\WindowsDataProtection.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WindowsDataProtection\bin\Debug\WindowsDataProtection.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WindowsDataProtection\obj\Debug\WindowsDataProtection.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WindowsDataProtection\obj\Debug\WindowsDataProtection.pdb

@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\FileEncryption\bin\Debug\FileEncryption.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\FileEncryption\bin\Debug\FileEncryption.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\FileEncryption\obj\Debug\FileEncryption.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\FileEncryption\obj\Debug\FileEncryption.pdb

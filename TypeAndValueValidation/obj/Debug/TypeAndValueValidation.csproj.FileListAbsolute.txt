@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\TypeAndValueValidation\bin\Debug\TypeAndValueValidation.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\TypeAndValueValidation\bin\Debug\TypeAndValueValidation.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\TypeAndValueValidation\obj\Debug\TypeAndValueValidation.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\TypeAndValueValidation\obj\Debug\TypeAndValueValidation.pdb

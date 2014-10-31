@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\StringBuilder\obj\Debug\StringBuilder.pdb

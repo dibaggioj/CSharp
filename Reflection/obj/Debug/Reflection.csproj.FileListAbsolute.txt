@@ -1,0 +1,5 @@
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Reflection\bin\Debug\Reflection.exe
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Reflection\bin\Debug\Reflection.pdb
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Reflection\obj\Debug\Reflection.exe
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Reflection\obj\Debug\Reflection.pdb

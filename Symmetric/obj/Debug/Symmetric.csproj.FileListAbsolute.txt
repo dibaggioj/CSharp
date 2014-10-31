@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Symmetric\bin\Debug\Symmetric.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Symmetric\bin\Debug\Symmetric.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Symmetric\obj\Debug\Symmetric.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\Symmetric\obj\Debug\Symmetric.pdb

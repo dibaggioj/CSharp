@@ -1,0 +1,5 @@
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\John DiBaggio\documents\visual studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

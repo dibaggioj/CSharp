@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\bin\Debug\LocalSQLDatabaseApplication.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\bin\Debug\LocalSQLDatabaseApplication.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\obj\Debug\LocalSQLDatabaseApplication.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\obj\Debug\LocalSQLDatabaseApplication.pdb

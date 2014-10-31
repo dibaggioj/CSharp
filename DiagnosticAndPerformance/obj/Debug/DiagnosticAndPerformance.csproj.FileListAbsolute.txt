@@ -1,0 +1,4 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\DiagnosticAndPerformance\bin\Debug\DiagnosticAndPerformance.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\DiagnosticAndPerformance\bin\Debug\DiagnosticAndPerformance.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\DiagnosticAndPerformance\obj\Debug\DiagnosticAndPerformance.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\DiagnosticAndPerformance\obj\Debug\DiagnosticAndPerformance.pdb
