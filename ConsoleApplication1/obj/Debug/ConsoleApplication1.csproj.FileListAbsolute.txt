@@ -2,3 +2,4 @@ C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Stud
 C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

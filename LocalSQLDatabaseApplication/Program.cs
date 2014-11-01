@@ -10,6 +10,8 @@ namespace LocalSQLDatabaseApplication
     {
         static void Main(string[] args)
         {
+            // TODO
+
         }
     }
 }
