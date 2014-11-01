@@ -10,7 +10,8 @@
             <PropertyRef Name="Id" />
           </Key>
           <Property Name="Id" Type="int" Nullable="false" />
-          <Property Name="Name" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Price" Type="money" />
         </EntityType>
         <EntityContainer Name="Database1ModelStoreContainer">
           <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
@@ -25,7 +26,8 @@
             <PropertyRef Name="Id" />
           </Key>
           <Property Name="Id" Type="Int32" Nullable="false" />
-          <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
         </EntityType>
         <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Products" EntityType="Self.Product" />
@@ -41,6 +43,7 @@
               <MappingFragment StoreEntitySet="Products">
                 <ScalarProperty Name="Id" ColumnName="Id" />
                 <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
