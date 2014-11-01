@@ -10,7 +10,7 @@ namespace WorkingWithLINQ
     {
         static void Main(string[] args)
         {
-            var data = Enumerable.Range(1, 50);
+            var data = Enumerable.Range(1, 50); // helper that returns a list of numbers to us; Enumerable (namespace) and Range (static method)
 
             var method = // IEnumerable<string>
                  data.Where(x => x % 2 == 0)

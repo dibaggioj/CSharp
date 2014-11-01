@@ -45,19 +45,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRestService", "Simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalSQLDatabaseApplication", "LocalSQLDatabaseApplication\LocalSQLDatabaseApplication.csproj", "{E800BF28-3667-4A02-B30F-D453CB28BDD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithLINQ", "WorkingWithLINQ\WorkingWithLINQ.csproj", "{59CA5BA2-A7DD-4315-A92A-B449E177823F}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://john-dibaggio.visualstudio.com/defaultcollection
-		SccProjectUniqueName0 = SimpleRestService\\SimpleRestService.csproj
-		SccProjectName0 = SimpleRestService
-		SccLocalPath0 = SimpleRestService
-		SccLocalPath1 = .
-		SccProjectUniqueName2 = LocalSQLDatabaseApplication\\LocalSQLDatabaseApplication.csproj
-		SccProjectName2 = LocalSQLDatabaseApplication
-		SccLocalPath2 = LocalSQLDatabaseApplication
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -143,6 +133,10 @@ Global
 		{E800BF28-3667-4A02-B30F-D453CB28BDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E800BF28-3667-4A02-B30F-D453CB28BDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E800BF28-3667-4A02-B30F-D453CB28BDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CA5BA2-A7DD-4315-A92A-B449E177823F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CA5BA2-A7DD-4315-A92A-B449E177823F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CA5BA2-A7DD-4315-A92A-B449E177823F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CA5BA2-A7DD-4315-A92A-B449E177823F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

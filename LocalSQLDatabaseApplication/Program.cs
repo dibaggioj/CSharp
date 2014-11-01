@@ -12,7 +12,7 @@ namespace LocalSQLDatabaseApplication
         {
             var context = new Database1Entities();
 
-            var products = context.Products; // context.Products will return the enumerable of the products. You can inject a predicate here using a Lambda statement ("=>"). In context.Products.Where, the Where (an extension method part of LINQ) clause is translated into T-SQL, allowing you to interact with the database as if you're typing SQL to it; this also provides compile-time checking. The ORM handles the T-SQL, allowing you to write statements like the following:
+            var products = context.Products; // context.Products will return the enumerable of the products. You can inject a predicate (returns true or false) here using a Lambda statement ("=>"). In context.Products.Where, the Where (an extension method part of LINQ) clause is translated into T-SQL, allowing you to interact with the database as if you're typing SQL to it; this also provides compile-time checking. The ORM handles the T-SQL, allowing you to write statements like the following:
 
             Console.WriteLine("All products:");
             foreach (var product in products)
