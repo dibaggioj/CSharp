@@ -1,0 +1,5 @@
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WorkingWithLINQ\bin\Debug\WorkingWithLINQ.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WorkingWithLINQ\bin\Debug\WorkingWithLINQ.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WorkingWithLINQ\obj\Debug\WorkingWithLINQ.exe
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WorkingWithLINQ\obj\Debug\WorkingWithLINQ.pdb
+C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\WorkingWithLINQ\obj\Debug\WorkingWithLINQ.csprojResolveAssemblyReference.cache

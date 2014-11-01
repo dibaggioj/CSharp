@@ -13,36 +13,41 @@ namespace WorkingWithLINQ
             var data = Enumerable.Range(1, 50); // helper that returns a list of numbers to us; Enumerable (namespace) and Range (static method)
 
             var method = // IEnumerable<string>
-                 data.Where(x => x % 2 == 0)
-                 .Select(x => x.ToString());
+                 data.Where(x => x % 2 == 0) // Predicate returns true or false, and here we pass a value x into the expression that is being evaluated, where x is the current item from data. The value of x is projected into the predicate, which then returns to true or false (in this case, if the number is odd or even)
+                 .Select(x => x.ToString()); // .Select is a projection tool. Here we take the input, x (an integer), and transorm it into a string, using the lambda statement. (Note: project means to take data and project it into a new type or structure, i.e. change the data shape)
+                        // instead of returning a string above, you could also return an anonymous type or a fully defined type instead if you'd want
+            // above is the definition of the LINQ action, not the execution of the action, so you can append other things to it (like additional Wheres, etc). We have here a queryable object, and each extension method is basically implementing queryable and returns a queryable, which allows you to chain together mulitple methods
 
             var query = // IEnumerable<string>
                 from d in data
                 where d % 2 == 0
                 select d.ToString();
 
-            Debugger.Break();
+            // the results that go into method and the results that go into query are be exactly the same; one just uses the method syntax of LINQ, the other uses the query syntax of LINQ
+
+            Debugger.Break(); // a hard-coded breakpoint
 
             var projection =
                 from d in data
-                select new
+                select new // we're going to return 3 properties
                 {
-                    Even = (d % 2 == 0),
+                    Even = (d % 2 == 0), 
                     Odd = !(d % 2 == 0),
                     Value = d,
                 };
+            //properties becomes a fully fledged object, which has three properties: Even, Odd, and Value
 
             var letters = new[] { "A", "C", "B", "E", "Q" };
 
             Debugger.Break();
 
             var sortAsc =
-                from d in data
+                from d in letters
                 orderby d ascending
                 select d;
 
             var sortDesc =
-                data.OrderByDescending(x => x);
+                letters.OrderByDescending(x => x);
 
             Debugger.Break();
 
@@ -50,8 +55,9 @@ namespace WorkingWithLINQ
 
             var values = new[] { "A", "B", "A", "C", "A", "D" };
 
-            var distinct = values.Distinct();
-            var first = values.First();
+            // these helper methods do what you could've done manually
+            var distinct = values.Distinct(); // removes duplicates
+            var first = values.First(); // 
             var firstOr = values.FirstOrDefault();
             var last = values.Last();
             var page = values.Skip(2).Take(2);

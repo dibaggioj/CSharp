@@ -9,4 +9,3 @@ C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Stud
 C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\bin\Debug\EntityFramework.xml
 C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\John DiBaggio\Documents\Visual Studio 2013\Projects\C_Sharp_Visual_Studio_Academy\LocalSQLDatabaseApplication\obj\Debug\LocalSQLDatabaseApplication.csprojResolveAssemblyReference.cache
